@@ -44,7 +44,7 @@ const App = () => {
       </div>
 
       {/* card  */}
-      <div className={`${styles.temp} card`}>
+      <div className={`${styles.cardContainer} card`}>
         <div className="card-title">Card Title</div>
         <div className="card-body">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
@@ -96,7 +96,7 @@ const App = () => {
       </div>
 
       <h2 className={styles.title}>Grid System</h2>
-      <div className={` ${styles.new} row gap-1 justify-center`}>
+      <div className={` ${styles.footer} row gap-1 justify-center`}>
         <div className={`col-xs-12 col-lg-3`}>
           <div className=" bg-primary text-white">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
