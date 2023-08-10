@@ -1,8 +1,6 @@
-# React + Vite
+﻿    
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Shinobi SASS Library
+This CSS library is developed using sass and contains style classes for styling your project. It also contains breakpoints and an inbuilt grid system. You can customize the project as per your project requirements.
+## Run the Project
+To run the project, clone the repo and enter`npm i` in your terminal. Make sure you have [nodejs](https://nodejs.org/en) installed in your system. After installing you can run the project using `npm run dev`.
